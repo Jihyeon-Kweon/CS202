@@ -1,7 +1,3 @@
 Names:
-<<<<<<< HEAD
 Jihyeon Kweon
-=======
 Adam Gardner
-
->>>>>>> d596130b9f0db23b46ffbe2abdc4b0a56b9533c7
